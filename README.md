@@ -19,6 +19,7 @@ You can download and install any of them.
 - `Ctrl + C`: This will exit the current command
 - `Ctrl + D`: This will close the terminal. Note: this command does not work on `Command line` and `Powershell`
 - `exit`: This will close the terminal on windows `command line` and `powershell`
+- `help`: This will show you many more options
 
 # Basic Commands
 *Some of the commands here works well on Bash and ZSH but does not work on `cmd` and `powershell`. I will try to write out all the commands and show the difference*
