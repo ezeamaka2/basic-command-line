@@ -1,3 +1,17 @@
+# Description
+Windows has a shell OS which is CMD.EXE and Powershell. However, some linux command does not work on the windows command line.
+The windows powershell and CMD has different commands (and some of the same) with Bash, Zsh and other Unix-based shells.
+Thankfully, there are some Unix-based solution for windows, some of the most popular one’s are the Git-bash and WSL (Windows Subsystem for Linux).
+You can download and install any of them.
+
+# Why Should You Learn About The Command line
+
+1. Speed
+2. Easy to access remote servers
+3. Command line tools
+4. Great skill to have
+
+
 # basic-command-line
 
 - `Arrow Up` and `Arrow Down`: This will show your previous and next commands
@@ -50,3 +64,8 @@
 - On windows
 > del [filename.extention]
 > rmdir [folder]
+
+# What Next
+1. Practice the commands here
+2. Use google to discover new commands
+3. 
