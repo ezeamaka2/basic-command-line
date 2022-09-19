@@ -64,7 +64,10 @@ You can download and install any of them.
 > cp [filetype] [foldername]
 
 ## Moving Files
-
+- On windows
+> move [filetype] [folder]
+- On Bash and Zsh
+> mv [filetype] [folder]
 
 ## Deleting File and Folder
 - On Bash and Zsh
