@@ -83,3 +83,4 @@ You can download and install any of them.
 
 # Resources
 1. [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/#the-linux-rmdir-command)
+2. [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=11839s)
