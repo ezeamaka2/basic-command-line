@@ -57,6 +57,15 @@ You can download and install any of them.
 > mv [folder] [newfoldername]
 > mv [file] [newfilename]
 
+## Copying Files
+- On windows
+> xcopy [filetype] [folder]
+- On Bash and Zsh
+> cp [filetype] [foldername]
+
+## Moving Files
+
+
 ## Deleting File and Folder
 - On Bash and Zsh
 > rm [filename.extention]
@@ -68,4 +77,6 @@ You can download and install any of them.
 # What Next
 1. Practice the commands here
 2. Use google to discover new commands
-3. 
+
+# Resources
+1. [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/#the-linux-rmdir-command)
