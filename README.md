@@ -77,6 +77,14 @@ You can download and install any of them.
 > del [filename.extention]
 > rmdir [folder]
 
+## Renaming File and Folder
+- On windows
+> ren [oldfilename] [newfilename]
+> ren [oldfoldername] [newfoldername]
+- On Bash and Zsh
+> mv [oldfilename] [newfilename]
+> mv [oldfoldername] [newfoldername]
+
 # What Next
 1. Practice the commands here
 2. Use google to discover new commands
