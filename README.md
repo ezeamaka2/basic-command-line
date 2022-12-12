@@ -1,4 +1,4 @@
-# Description fi
+# Description
 Windows has a shell OS which is CMD.EXE and Powershell. However, some linux command does not work on the windows command line.
 The windows powershell and CMD has different commands (and some of the same) with Bash, Zsh and other Unix-based shells.
 Thankfully, there are some Unix-based solution for windows, some of the most popular one’s are the Git-bash and WSL (Windows Subsystem for Linux).
