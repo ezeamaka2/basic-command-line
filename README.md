@@ -47,8 +47,9 @@ You can download and install any of them.
 > cd ..
 
 ## To Clear Screen
-- This command works on all platform
+- This command works on windows
 > cls
+- This command works on bash and zsh
 > clear
 
 ## Renaming File and Folder
