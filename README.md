@@ -49,6 +49,7 @@ You can download and install any of them.
 ## To Clear Screen
 - This command works on all platform
 > cls
+> clear
 
 ## Renaming File and Folder
 - On windows
